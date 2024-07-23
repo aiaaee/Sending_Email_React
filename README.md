@@ -13,8 +13,7 @@ After completing the JSX part of the project, we proceed to send the messages ge
 Using the [npm](https://www.npmjs.com/) website, we download the npm-com package.
 Then, we complete its code using the documentation provided in the send-form section.
 The syntax provided by the emailJs documentation is as follows:
+
 ```
-
 emailjs.sendForm(serviceID, templateID, templateParams, options);
-
 ```
