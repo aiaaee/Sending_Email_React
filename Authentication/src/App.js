@@ -1,14 +1,15 @@
 import React from 'react'
-
+import Navbar from './Navbar'
+import Form from './Form'
 function App(){
     return(
-        <>
-            <div>
-                <h2>
-                    Hello
-                </h2>
+        <div className='bg-dark'>
+            <div className='container' >
+                <Navbar />
+                <Form />
             </div>
-        </>
+            <br/><br/>
+        </div>
     )
 }
 
