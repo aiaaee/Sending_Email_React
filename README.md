@@ -19,7 +19,7 @@ emailjs.sendForm(serviceID, templateID, templateParams, options);
 ```
 It should be noted that in the `templateParams` section, we can use a function we created to access the _target_ and place them in this section.
 
-Then, using ReactToastify in the then section, we specify that if the sending status is successful, it should send us a success message.
+Then, using [ReactToastify](https://www.npmjs.com/package/react-toastify) in the then section, we specify that if the sending status is successful, it should send us a success message.
 If it fails to properly recognize the email, it should send us an error message.
 
 
