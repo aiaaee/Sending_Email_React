@@ -24,3 +24,9 @@ If it fails to properly recognize the email, it should send us an error message.
 
 ![Requests3](https://github.com/user-attachments/assets/a081197b-0a44-4e5f-905d-fdcc9a2c6d12)
 
+Finally, if we check our email, we will see that it has been successfully sent.
+
+
+![Requests2](https://github.com/user-attachments/assets/44a69b0b-6c12-4791-9a6d-73fc32ade47f)
+
+The written codes can be viewed in the [src](https://github.com/aiaaee/Sending_Email_React/tree/main/Authentication/src) section.
