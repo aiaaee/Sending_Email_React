@@ -22,4 +22,5 @@ It should be noted that in the `templateParams` section, we can use a function w
 Then, using [ReactToastify](https://www.npmjs.com/package/react-toastify) in the then section, we specify that if the sending status is successful, it should send us a success message.
 If it fails to properly recognize the email, it should send us an error message.
 
+![Requests3](https://github.com/user-attachments/assets/6c170798-0c3b-4083-a98b-0abda292872b)
 
