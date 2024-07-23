@@ -41,4 +41,4 @@ Finally, if we check our email, we will see that it has been successfully sent.
 
 ![Requests2](https://github.com/user-attachments/assets/44a69b0b-6c12-4791-9a6d-73fc32ade47f)
 
-The written codes can be viewed in the [src](https://github.com/aiaaee/Sending_Email_React/tree/main/Authentication/src) section.
+The written codes can be viewed in the [source](https://github.com/aiaaee/Sending_Email_React/tree/main/Authentication/src) section.
