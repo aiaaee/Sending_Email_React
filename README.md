@@ -3,3 +3,5 @@
 
 
 In this project, we aim to send a message to the user's email using the emailJs tool.
+At the beginning of the project, we design our form in the Request section. 
+### The entire design of this form is handled by Bootstrap.
