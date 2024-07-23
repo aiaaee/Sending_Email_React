@@ -4,6 +4,7 @@ import Form from './Form'
 function App(){
     return(
         <div className='bg-dark'>
+
             <div className='container' >
                 <Navbar />
                 <Form />
