@@ -6,4 +6,15 @@ In this project, we aim to send a message to the user's email using the emailJs 
 At the beginning of the project, we design our form in the Request section. 
 ### The entire design of this form is handled by Bootstrap.
 By using rows and segmenting sections of the page with columns, we create a fully responsive page.
+
+![Requests](https://github.com/user-attachments/assets/f245725c-f882-4d17-98db-d4f4deba583a)
+
 After completing the JSX part of the project, we proceed to send the messages generated through the form.
+Using the [npm](https://www.npmjs.com/) website, we download the npm-com package.
+Then, we complete its code using the documentation provided in the send-form section.
+The syntax provided by the emailJs documentation is as follows:
+```
+
+emailjs.sendForm(serviceID, templateID, templateParams, options);
+
+```
