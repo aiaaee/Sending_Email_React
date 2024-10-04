@@ -4,7 +4,7 @@
 
 In this project, we aim to send a message to the user's email using the emailJs tool.
 At the beginning of the project, we design our form in the Request section. 
-### The entire design of this form is handled by Bootstrap.
+##### The entire design of this form is handled by Bootstrap.
 By using rows and segmenting sections of the page with columns, we create a fully responsive page.
 
 ![Requests](https://github.com/user-attachments/assets/f245725c-f882-4d17-98db-d4f4deba583a)
